@@ -1,0 +1,9 @@
+.instruction-ol {
+  list-style-position: inside;
+  display: grid;
+  gap: 10px;
+}
+
+.span-bold-ol {
+  font-weight: bold;
+}

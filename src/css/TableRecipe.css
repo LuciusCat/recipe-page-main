@@ -1,0 +1,15 @@
+.td-bold {
+  color: var(--color-nutmeg);
+  font-weight: bolder;
+}
+
+.recipe-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0 30px;
+}
+
+.recipe-table td {
+  padding: 10px;
+  border-bottom: 1px solid var(--color-nutmeg);
+}

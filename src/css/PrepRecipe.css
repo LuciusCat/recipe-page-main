@@ -1,0 +1,26 @@
+.title-prep {
+  color: var(--color-dark-raspberry);
+  margin-left: 30px;
+}
+
+.span-bold-ul {
+  font-weight: bolder;
+}
+
+.prep-container {
+  margin: 20px 0;
+  background-color: var(--color-rose-white);
+  border-radius: 10px;
+  min-height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.prep-ul {
+  display: grid;
+  gap: 10px;
+}
+
+.prep-li {
+  margin-left: 50px;
+}

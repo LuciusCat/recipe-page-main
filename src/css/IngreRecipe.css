@@ -1,0 +1,5 @@
+.ingredients-ul {
+  list-style-position: inside;
+  display: grid;
+  gap: 10px;
+}
